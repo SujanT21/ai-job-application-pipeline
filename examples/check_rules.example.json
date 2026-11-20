@@ -1,0 +1,12 @@
+{
+  "banned": [
+    "passionate", "team player", "I am writing to express", "\\bintuitive\\b", "comprehensive", "Adept at",
+    "\\bJava\\b", "\\bSpark\\b", "Databricks", "\\bTableau\\b", "Airflow",
+    "in production\\b", "\\bdeployed\\b", "30 tested models"
+  ],
+  "allow_if": {"\\bJava\\b": "keen to (learn|build)", "Airflow": "have not (yet )?(used|built)"},
+  "keywords": ["sql", "python", "dbt", "snowflake", "power bi", "dashboard", "kpi", "stakeholder",
+               "statistic", "machine learning", "a/b", "data quality", "reporting", "healthcare"],
+  "max_pages": 2,
+  "max_letter_words": 350
+}

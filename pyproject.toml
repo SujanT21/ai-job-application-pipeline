@@ -1,0 +1,9 @@
+[project]
+name = "ai-job-application-pipeline"
+version = "0.1.0"
+description = "Agentic pipeline that finds UK visa-sponsoring data jobs and drafts fact-checked CVs and cover letters"
+requires-python = ">=3.10"
+dependencies = []   # standard library only
+
+[tool.ruff]
+line-length = 120

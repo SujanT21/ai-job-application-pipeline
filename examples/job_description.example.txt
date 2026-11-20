@@ -1,0 +1,5 @@
+Data Analyst - Example Health Trust (fictional)
+Salary: GBP 38,000 - 44,000. Glasgow, hybrid.
+We welcome applications from candidates who require Skilled Worker sponsorship.
+Essential: strong SQL; experience building dashboards in Power BI; data quality and KPI reporting;
+communicating with non-technical stakeholders. Desirable: Python, dbt, healthcare data.

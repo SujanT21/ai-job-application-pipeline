@@ -1,0 +1,10 @@
+Dear Hiring Manager,
+
+I am applying for the Data Analyst role at Example Health Trust. Your advert's focus on trusted KPI reporting for clinical teams matches the work I do now.
+
+At Northwind Health I corrected a readmissions KPI overstated by about 12 points by fixing a join in the core model, and I built 30 documented dbt models in Snowflake with 150+ automated tests. At Contoso Logistics I built Power BI dashboards with DAX for delivery performance.
+
+My current visa runs until 31 December 2026, and I will require Skilled Worker sponsorship.
+
+Kind regards,
+Alex Morgan

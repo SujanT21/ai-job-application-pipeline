@@ -1,0 +1,7 @@
+{
+  "name": "ai-job-application-pipeline-cv",
+  "private": true,
+  "description": "Builds an ATS-friendly CV .docx from cv.json",
+  "scripts": { "build-cv": "node pipeline/tailoring/build_cv.js" },
+  "dependencies": { "docx": "^9.0.0" }
+}

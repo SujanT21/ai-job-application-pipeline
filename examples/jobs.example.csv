@@ -1,0 +1,6 @@
+employer,title,link,salary,location,jd_text
+Example Health Trust,Data Analyst,https://example.org/jobs/1,"£38,000 - £44,000",Glasgow,We welcome applications from candidates who require sponsorship.
+Fabrikam Ltd,Head of Data,https://example.org/jobs/2,£90k,London,
+Contoso Retail,Data Analyst,https://example.org/jobs/3,"£24,000",Leeds,
+Tailspin Toys,Insight Analyst,https://example.org/jobs/4,,Remote UK,Unfortunately we are unable to offer visa sponsorship.
+Example Health Trust,Data Analyst,https://example.org/jobs/1?utm_source=alert,"£38,000 - £44,000",Glasgow,

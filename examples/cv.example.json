@@ -1,0 +1,22 @@
+{
+  "name": "Alex Morgan",
+  "contact": ["alex.morgan@example.com", "+44 7000 000000", "Glasgow, United Kingdom", "linkedin.com/in/example"],
+  "summary": "Data Analyst with over four years' experience in healthcare and logistics. Builds tested data models in SQL, dbt and Snowflake and reporting that operations teams use daily. Applies statistics and machine learning in Python to operational questions.",
+  "skills": [
+    ["Analytics", "SQL, Python (pandas, scikit-learn), statistics, A/B test design"],
+    ["Data platforms", "Snowflake, dbt"],
+    ["BI", "Power BI, DAX"]
+  ],
+  "experience": [
+    {"title": "Data Analyst", "org": "Northwind Health", "dates": "Jan 2024 - Present", "bullets": [
+      "Built 30 documented dbt models in Snowflake with 150+ automated tests.",
+      "Corrected a readmissions KPI overstated by about 12 points by fixing a join in the core model.",
+      "Built a churn model in Python with ROC-AUC 0.84 on a later held-out period."]},
+    {"title": "Junior Data Analyst", "org": "Contoso Logistics", "dates": "Jun 2021 - Dec 2023", "bullets": [
+      "Designed A/B tests for warehouse pick-route changes.",
+      "Built Power BI dashboards with DAX for delivery performance."]}
+  ],
+  "education": [{"title": "MSc Data Science", "org": "Example University", "dates": "2020 - 2021"}],
+  "certifications": ["Microsoft Certified: Power BI Data Analyst Associate"],
+  "section_order": ["summary", "skills", "experience", "education", "certifications"]
+}
